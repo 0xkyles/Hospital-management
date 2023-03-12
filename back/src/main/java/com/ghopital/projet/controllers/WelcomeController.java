@@ -1,4 +1,4 @@
-package com.ghopital.projet.controller;
+package com.ghopital.projet.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
